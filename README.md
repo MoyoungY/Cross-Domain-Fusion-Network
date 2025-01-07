@@ -35,6 +35,18 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Dataset
+
+We use the DIV2K dataset for training and evaluation. Please download it from [DIV2K website](https://data.vision.ee.ethz.ch/cvl/DIV2K/) and organize as follows:
+
+```
+data/
+├── DIV2K_train_HR/
+│   └── rgb/
+└── DIV2K_valid_HR/
+    └── rgb/
+```
+
 ### Training
 
 To train the CDFN model:
