@@ -1,6 +1,6 @@
 # Physics-aware Cross-domain Fusion Network for Computer-Generated Holography
 
-This repository contains the official implementation of the paper ["Physics-aware Cross-domain Fusion Aids Learning-driven Computer-generated Holography"](https://github.com/computational-imaging/neural-holography) (Photonics Research 2024).
+This repository contains the official implementation of the paper ["Physics-aware Cross-domain Fusion Aids Learning-driven Computer-generated Holography"](https://doi.org/10.1364/PRJ.527405) (Photonics Research 2024).
 
 ## Overview
 
