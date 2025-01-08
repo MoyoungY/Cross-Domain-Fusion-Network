@@ -6,14 +6,6 @@ This repository contains the official implementation of the paper ["Physics-awar
 
 This work proposes a novel physics-aware cross-domain fusion network (CDFN) for computer-generated holography (CGH). The network combines physical insights with deep learning to achieve high-quality holographic reconstruction.
 
-## Features
-
-- Physics-aware cross-domain fusion network (CDFN) implementation
-- Iterative phase mapping (IPM) module
-- Deep supervision (DS) strategy
-- Comparison implementations of DPAC and SGD methods
-- Support for RGB channels
-
 ## Installation
 
 1. Clone this repository:
